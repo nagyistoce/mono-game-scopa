@@ -1,0 +1,1 @@
+An implementation of Scopa game to understand MonoGame SDK.
